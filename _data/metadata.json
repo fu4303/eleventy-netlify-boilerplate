@@ -1,5 +1,5 @@
 {
-  "title": "Eleventy Netlify Boilerplate",
-  "description": "A template for building a simple blog website with the Eleventy static site generator, Netlify CMS, and with deployment to Netlify.",
-  "url": "https://eleventy-netlify-boilerplate.netlify.app"
+  "title": "The thoughts of a crazy man",
+  "description": "These are just some of my thoughts while I play around with the code for this website",
+  "url": "https://fu-11ty-netlify.netlify.app"
 }
